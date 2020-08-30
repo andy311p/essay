@@ -1,6 +1,58 @@
 kaggle competition (2012) for automated essay scoring:
 https://www.kaggle.com/c/asap-aes/overview
 
-<b>Read Already:</b>
+
+########################################################################################
+HAVE NOT READ YEAT:
+########################################################################################
+An Interpretable Deep Learning System for Automatically Scoring Request for Proposals
+https://arxiv.org/pdf/2008.02347.pdf
+
+Language models and Automated Essay Scoring
+https://arxiv.org/pdf/1909.09482.pdf
+
+Co-Attention Based Neural Network for Source-Dependent Essay Scoring
+https://arxiv.org/pdf/1908.01993.pdf
+
+Automated essay scoring with string kernels and word embeddings
+https://arxiv.org/pdf/1804.07954.pdf
+
+Neural Multi-task Learning in Automated Assessment
+https://arxiv.org/pdf/1801.06830.pdf
+
+SKIPFLOW: Incorporating Neural Coherence Features for End-to-End Automatic Text Scoring
+https://arxiv.org/pdf/1711.04981.pdf
+
+Exploring Automated Essay Scoring for Nonnative English Speakers
+https://arxiv.org/ftp/arxiv/papers/1706/1706.03335.pdf
+
+########################################################################################
+FINISHED READING:
+########################################################################################
+AI and Holistic Review:Informing Human Reading in College Admissions
+https://arxiv.org/ftp/arxiv/papers/1912/1912.09318.pdf
+
+When Small Words Foretell Academic Success: The Case of College Admissions Essays
+https://www.researchgate.net/publication/270289688_When_Small_Words_Foretell_Academic_Success_The_Case_of_College_Admissions_Essays
+
+Whose Truth is the "Ground Truth"? College Admissions Essays and Bias in Word Vector Evaluation Methods
+https://www.researchgate.net/publication/342796481_Whose_Truth_is_the_Ground_Truth_College_Admissions_Essays_and_Bias_in_Word_Vector_Evaluation_Methods
+
 Automated Topical Component Extraction Using Neural Network Attention Scores from Source-based Essay Scoring
 https://arxiv.org/pdf/2008.01809.pdf
+
+Prompt Agnostic Essay Scorer: A Domain Generalization Approach to Cross-prompt Automated Essay Scoring
+https://arxiv.org/pdf/2008.01441.pdf
+
+Calling Out Bluff: Attacking the Robustness of Automatic Scoring Systems with Simple Adversarial Testing
+https://arxiv.org/pdf/2007.06796.pdf
+
+Automated Essay Scoring based on Two-Stage Learning
+https://arxiv.org/pdf/1901.07744.pdf
+
+A Neural Approach to Automated Essay Scoring
+https://www.researchgate.net/publication/305748202_A_Neural_Approach_to_Automated_Essay_Scoring
+
+Automatic Text Scoring Using Neural Networks
+https://arxiv.org/pdf/1606.04289.pdf
+
