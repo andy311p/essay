@@ -19,12 +19,8 @@ https://www.documentcloud.org/documents/335765-contrasting-state-of-the-art-auto
 HAVE NOT READ YEAT:
 ########################################################################################
 
-
 Neural Multi-task Learning in Automated Assessment
 https://arxiv.org/pdf/1801.06830.pdf
-
-SKIPFLOW: Incorporating Neural Coherence Features for End-to-End Automatic Text Scoring
-https://arxiv.org/pdf/1711.04981.pdf
 
 Neural Automated Essay Scoring and Coherence Modeling for Adversarially Crafted Input
 https://arxiv.org/pdf/1804.06898.pdf
@@ -88,3 +84,6 @@ https://www.aaai.org/ojs/index.php/AAAI/article/view/5031
 
 An Interpretable Deep Learning System for Automatically Scoring Request for Proposals
 https://arxiv.org/pdf/2008.02347.pdf
+
+SKIPFLOW: Incorporating Neural Coherence Features for End-to-End Automatic Text Scoring
+https://arxiv.org/pdf/1711.04981.pdf
