@@ -18,8 +18,7 @@ https://www.documentcloud.org/documents/335765-contrasting-state-of-the-art-auto
 ########################################################################################
 HAVE NOT READ YEAT:
 ########################################################################################
-Co-Attention Based Neural Network for Source-Dependent Essay Scoring
-https://arxiv.org/pdf/1908.01993.pdf
+
 
 Neural Multi-task Learning in Automated Assessment
 https://arxiv.org/pdf/1801.06830.pdf
@@ -47,6 +46,9 @@ https://www.researchgate.net/publication/270289688_When_Small_Words_Foretell_Aca
 
 Whose Truth is the "Ground Truth"? College Admissions Essays and Bias in Word Vector Evaluation Methods
 https://www.researchgate.net/publication/342796481_Whose_Truth_is_the_Ground_Truth_College_Admissions_Essays_and_Bias_in_Word_Vector_Evaluation_Methods
+
+Co-Attention Based Neural Network for Source-Dependent Essay Scoring
+https://arxiv.org/pdf/1908.01993.pdf
 
 Automated Topical Component Extraction Using Neural Network Attention Scores from Source-based Essay Scoring
 https://arxiv.org/pdf/2008.01809.pdf
