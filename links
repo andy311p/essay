@@ -9,9 +9,6 @@ Dundee Corpus [Kennedy et al., 2003] - The Dundee Corpus was created for both En
 #####################################################################################
 GAZE
 #####################################################################################
-@@@  Happy Are Those Who Grade without Seeing: A Multi-Task Learning Approach to Grade Essays Using Gaze Behaviour
-https://arxiv.org/abs/2005.12078
-
 Improving natural language processing with human data Eye tracking and other data sources reflecting cognitive text processing
 https://curis.ku.dk/portal/files/203773344/Ph.d._afhandling_2018_Barrett.pdf
 
@@ -38,6 +35,9 @@ https://ep.liu.se/ecp/109/014/ecp15109014.pdf
 #####################################################################################
 GAZE - READ
 #####################################################################################
+Happy Are Those Who Grade without Seeing: A Multi-Task Learning Approach to Grade Essays Using Gaze Behaviour
+https://arxiv.org/abs/2005.12078
+
 A Survey on Using Gaze Behaviour for Natural Language Processing
 https://www.ijcai.org/Proceedings/2020/683
 
