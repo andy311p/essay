@@ -1,4 +1,8 @@
+Provo Corpus - [Luke and Christianson, 2017] which consists of data of reading 55 paragraphs from 84 native speakers. 
+This dataset could be converted in a list of 1 185 words each of which is associated with a set of 26 eye movement features
 
+Ghent Eye-Tracking Corpus (GECO) - [Cop et al., 2017] containing data of reading 5 000 sentences from monolingual and bilingual English 
+speakers (33 participants overall). After converting one could obtain a dataset of 987 words, each associated with 48 features
 #####################################################################################
 GAZE
 #####################################################################################
